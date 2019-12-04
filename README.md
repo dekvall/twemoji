@@ -14,7 +14,7 @@ The images are in png format, 13x13, with a hard-edged transparency. The client 
  ``` 
  5. Add an appropriate shortcode to:
  ```
- runelite-client/src/main/java/net/runelite/client/plugins/emojis/Emoji.java
+ runelite/runelite-client/src/main/java/net/runelite/client/plugins/emojis/Emoji.java
  ```
  6. Compile the client and use your new emoji in game
 
